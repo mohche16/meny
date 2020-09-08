@@ -78,6 +78,10 @@ html, body{
   width: 15%;
 }
 
+.logomando{
+	width: 30%;
+}
+
 .footer {
   position: fixed;
   left: 0;
